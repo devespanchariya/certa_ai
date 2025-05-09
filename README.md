@@ -2,6 +2,9 @@
 
 A modern, responsive task management application built with React and TypeScript. Manage your tasks with ease using an intuitive interface that supports creating, editing, filtering, and sorting tasks.
 
+
+🌐 [Live Demo](https://certa-ai.vercel.app/)
+
 ## Features
 
 - ✨ Create, edit, and delete tasks
